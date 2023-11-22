@@ -1,0 +1,17 @@
+.most-sold {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.most-sold-desc {
+    margin-bottom: 10px
+}
+
+.most-sold-images {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px; 
+    align-items: center;
+}

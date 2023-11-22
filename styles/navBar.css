@@ -3,7 +3,7 @@
     justify-content: space-evenly;
     align-items: center;
     height: 50px;
-    background-color: #FFA589;
+    background-color: var(--main);
     border-radius: 100px;
     margin:20px 0
 }
@@ -23,8 +23,8 @@
 }
 
 .options:hover {
-    color: #FFA589;
-    background-color: rgb(255, 228, 241);
+    color: var(--main);
+    background-color: var(--sec);
     border-radius: 100px;
     transition: background-color 0.5s linear;
 }

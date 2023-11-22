@@ -1,6 +1,14 @@
 @import url(./shopName.css);
 @import url(./navBar.css);
+@import url(./mostSold.css);
+@import url(./findUs.css);
+@import url(./footer.css);
 
 * {
     font-family: 'Inter', sans-serif;
+}
+
+:root {
+    --main: #FFA589;
+    --sec: rgb(255, 228, 241);
 }
