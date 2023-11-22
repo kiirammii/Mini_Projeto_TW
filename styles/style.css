@@ -1,0 +1,6 @@
+@import url(./shopName.css);
+@import url(./navBar.css);
+
+* {
+    font-family: 'Inter', sans-serif;
+}

@@ -1,0 +1,30 @@
+.navigation-bar {
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 50px;
+    background-color: #FFA589;
+    border-radius: 100px;
+    margin:20px 0
+}
+
+.navOptions {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+.options {
+    font-size: larger;
+    text-decoration: none;
+    color: white;
+    padding: 8px 40px
+}
+
+.options:hover {
+    color: #FFA589;
+    background-color: rgb(255, 228, 241);
+    border-radius: 100px;
+    transition: background-color 0.5s linear;
+}
