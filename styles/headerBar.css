@@ -6,6 +6,17 @@
     background-color: var(--color-one);
 }
 
+.search-bar {
+    display: flex;
+    flex-direction: row;
+}
+
+.searchBar {
+    background-color: var(--color-one);
+    border-color: black;
+    border-radius: 100px;
+}
+
 .profile-and-cart {
     display: flex;
     flex-direction: row;
