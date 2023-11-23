@@ -1,0 +1,25 @@
+.header-bar {
+    display: grid;
+    grid-template-columns: 4fr 2fr;
+    align-items: center;
+    height: 40px;
+    background-color: var(--color-one);
+}
+
+.profile-and-cart {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.account {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.cart {
+    height: 50px;
+    width: 50px;
+}

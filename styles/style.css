@@ -1,4 +1,5 @@
 @import url(./shopName.css);
+@import url(./headerBar.css);
 @import url(./navBar.css);
 @import url(./mostSold.css);
 @import url(./findUs.css);
@@ -9,6 +10,7 @@
 }
 
 :root {
-    --main: #FFA589;
-    --sec: rgb(255, 228, 241);
+    --main: #9b9b9b;
+    --sec: #ffffff;
+    --color-one: #d5d5d5;
 }

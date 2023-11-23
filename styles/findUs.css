@@ -1,0 +1,16 @@
+.socials {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.socials-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.linkOption {
+    height: 70px;
+    width: 70px;
+}
