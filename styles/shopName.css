@@ -3,15 +3,16 @@
     flex-direction: row;
     height: 50px;
     justify-content: center;
-    align-items: center; 
-    margin:25px;
+    align-items: center;
+    margin: 10px;
+    gap: 10px
+    
 }
 
 .shopName div {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 5px
 }
 
 .shop-Icon {

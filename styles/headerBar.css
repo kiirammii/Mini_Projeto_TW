@@ -5,7 +5,7 @@
     align-items: center;
     height: 40px;
     background-color: var(--color-one);
-    margin: 0
+    margin-top: 40px;
 }
 
 .search-bar {
