@@ -25,6 +25,10 @@
     height: 25px;
 }
 
+.searchBarIcon {
+    height: 25px;
+}
+
 .profile-and-cart {
     display: flex;
     flex-direction: row;
@@ -46,29 +50,22 @@
     gap: 15px;
 }
 
-.user-login {
+.userLogin {
+    text-decoration: none;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100px;
     background-color: var(--main);
     border-radius: 100px;
-    border-color: black;
     height: 25px;
 }
 
-.user-login:hover {
+.userLogin:hover {
+    color:var(--main);
     background-color: var(--sec);
     transition: background-color 0.5s linear;
-}
-
-.userLogin {
-    text-decoration: none;
-    color: white
-}
-
-.userLogin:hover {
-    color:var(--main)
 }
 
 .shoppingCart {
