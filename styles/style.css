@@ -9,8 +9,12 @@
     font-family: 'Inter', sans-serif;
 }
 
+body {
+    background-color: whitesmoke;
+}
+
 :root {
     --main: #9b9b9b;
-    --sec: #ffffff;
+    --sec: #FFFFFF;
     --color-one: #d5d5d5;
 }

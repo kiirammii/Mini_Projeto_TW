@@ -1,36 +1,77 @@
 .header-bar {
     display: grid;
     grid-template-columns: 4fr 2fr;
+    align-content: center;
     align-items: center;
     height: 40px;
     background-color: var(--color-one);
+    margin: 0
 }
 
 .search-bar {
+    margin-left: 10px;
     display: flex;
     flex-direction: row;
+    align-items: center;
+    gap: 10px;
 }
 
 .searchBar {
-    background-color: var(--color-one);
-    border-color: black;
+    background-color: var(--main);
+    border-color: var(--color-one);
+    border-style: inherit;
+    color:white;
     border-radius: 100px;
+    height: 25px;
 }
 
 .profile-and-cart {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.profile-pic {
+    display: flex;
+    align-items: center;
 }
 
 .account {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
     gap: 15px;
 }
 
-.cart {
-    height: 50px;
-    width: 50px;
+.user-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    background-color: var(--main);
+    border-radius: 100px;
+    border-color: black;
+    height: 25px;
+}
+
+.user-login:hover {
+    background-color: var(--sec);
+    transition: background-color 0.5s linear;
+}
+
+.userLogin {
+    text-decoration: none;
+    color: white
+}
+
+.userLogin:hover {
+    color:var(--main)
+}
+
+.shoppingCart {
+    height: 25px;
+    width: 25px;
 }
