@@ -1,5 +1,5 @@
 .footer {
-    background-color: var(--sec);
+    background-color: var(--color-one);
     padding: 10px 20px;
     display: flex;
     flex-direction: row;
@@ -10,4 +10,21 @@
 .navLinks {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+}
+
+.orderButton {
+    border-radius: 100px;
+    height: 30px;
+    width: 100px;
+    background-color: var(--main);
+    border-radius: 100px;
+    height: 30px;
+    width: 100px;
+}
+
+.orderButton:hover {
+    color: var(--color-one);
+    background-color: var(--sec);
+    border-radius: 100px;
+    transition: background-color 0.3s linear;
 }

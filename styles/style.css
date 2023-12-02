@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color: whitesmoke;
+    background-color: #cacaca;
 }
 
 .initial {
@@ -18,9 +18,9 @@ body {
 }
 
 :root {
-    --main: #9b9b9b;
-    --sec: #02ff1b;
-    --color-one: #d5d5d5;
+    --main: rgb(255, 97, 97);
+    --sec: rgb(255, 164, 164);
+    --color-one: rgb(255, 221, 233);
 }
 
 hr {
@@ -29,5 +29,4 @@ hr {
     border-left:0cap;
     border-right:0cap;
     border-color: gray;
-
 }
