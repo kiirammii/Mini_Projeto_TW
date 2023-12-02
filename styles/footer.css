@@ -5,6 +5,7 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: flex-start;
+    border-radius: 25px;
 }
 
 .navLinks {

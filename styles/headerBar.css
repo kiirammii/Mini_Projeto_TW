@@ -6,6 +6,7 @@
     height: 40px;
     background-color: var(--color-one);
     margin-top: 40px;
+    border-radius: 100px;
 }
 
 .search-bar {

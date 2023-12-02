@@ -4,7 +4,8 @@
     align-items: center;
     height: 50px;
     background-color: var(--main);
-    margin:10px 0
+    margin:10px 0;
+    border-radius: 100px;
 }
 
 .navOptions {
