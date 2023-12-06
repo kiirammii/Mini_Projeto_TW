@@ -1,0 +1,26 @@
+.questions {
+    margin: 25px 
+    
+}
+
+.questions-title {
+    margin: 40px 0px;
+}
+
+.questionsTitle {
+    color: var(--main);
+    text-align: center;
+}
+
+.questionTitle {
+    display: flex;
+    align-items: center;
+    background-color: var(--color-one);
+    border-radius: 100px;
+    height: 30px;
+    text-indent: 10px;
+}
+
+.questionAnswer {
+    margin-left: 25px;
+}

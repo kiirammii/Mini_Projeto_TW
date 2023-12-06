@@ -14,18 +14,25 @@
 }
 
 .orderButton {
-    border-radius: 100px;
-    height: 30px;
+    border: none;
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100px;
     background-color: var(--main);
     border-radius: 100px;
-    height: 30px;
-    width: 100px;
+    height: 25px;
 }
 
 .orderButton:hover {
-    color: var(--color-one);
+    color:var(--main);
     background-color: var(--sec);
-    border-radius: 100px;
     transition: background-color 0.3s linear;
+}
+
+.paymentImg {
+    height: 50px;
+    width: 50px;
 }
