@@ -1,27 +1,25 @@
-@import url(./shopName.css);
-@import url(./headerBar.css);
-@import url(./navBar.css);
+@import url(./header.css);
 @import url(./mostSold.css);
 @import url(./findUs.css);
 @import url(./faqs.css);
 @import url(./footer.css);
 
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 * {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 body {
     background-color: #cacaca;
 }
 
-.initial {
-    padding: 25px
-}
-
 :root {
     --main: rgb(255, 97, 97);
     --sec: rgb(255, 164, 164);
     --color-one: rgb(255, 221, 233);
+    --color-two: rgb(255, 170, 161)
 }
 
 hr {

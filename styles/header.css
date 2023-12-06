@@ -1,0 +1,79 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-between;
+    background-color: var(--color-two);
+    border-radius: 10px;
+}
+
+.shop-name {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-left: 25px
+}
+
+
+.shopIcon {
+    width: 35px;
+    height: 35px;
+}
+
+.websiteName {
+    color: var(--main);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Pacifico', cursive;
+}
+
+/* ------------- */
+.navigation-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 10px
+}
+
+.options {
+    font-size: larger;
+    text-decoration: none;
+    color: white;
+    padding: 8px 40px
+}
+
+.options:hover {
+    color: var(--main);
+    background-color: var(--sec);
+    border-radius: 100px;
+    transition: background-color 0.3s linear;
+}
+
+
+/* ------------- */
+
+.nav-icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-right: 25px
+}
+
+.searchBar {
+    background-color: var(--main);
+    border-color: var(--color-one);
+    border-style: inherit;
+    color:white;
+    border-radius: 100px;
+    height: 25px;
+}
+
+.navIcon {
+    height: 30px;
+}
