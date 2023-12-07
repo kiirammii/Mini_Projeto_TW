@@ -1,17 +1,17 @@
-.questions {
-    margin: 50px 25px 
+.contacts {
+    margin: 50px 25px
 }
 
-.questions-title {
+.contacts-title {
     margin: 40px 0px;
 }
 
-.questionsTitle {
+.contactsTitle {
     color: var(--main);
     text-align: center;
 }
 
-.questionTitle {
+.topicTitle {
     display: flex;
     align-items: center;
     background-color: var(--color-one);
@@ -20,6 +20,6 @@
     text-indent: 10px;
 }
 
-.questionAnswer {
+.topicAnswer {
     margin-left: 25px;
 }

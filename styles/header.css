@@ -5,7 +5,7 @@
     justify-content: space-between;
     background-color: var(--color-two);
     border-radius: 10px;
-    height:70px
+    height:90px
 }
 
 .shop-name {
@@ -29,7 +29,7 @@
     flex-direction: row;
     justify-content: center;
     font-family: 'Pacifico', cursive;
-    text-shadow: 3px 0px 1px rgb(255, 221, 233)
+    text-shadow: 3px 0px 1px rgb(241, 241, 241)
 }
 
 /* ------------- */

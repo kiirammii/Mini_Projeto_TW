@@ -2,8 +2,9 @@
 @import url(./mostSold.css);
 @import url(./findUs.css);
 @import url(./faqs.css);
+@import url(./contacts.css);
+@import url(./orders.css);
 @import url(./footer.css);
-
 
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
@@ -16,10 +17,10 @@ body {
 }
 
 :root {
-    --main: rgb(255, 97, 97);
-    --sec: rgb(255, 164, 164);
-    --color-one: rgb(255, 221, 233);
-    --color-two: rgb(255, 170, 161)
+    --main: rgb(76, 76, 76);
+    --sec: rgb(189, 189, 189);
+    --color-one: rgb(255, 255, 255);
+    --color-two: rgb(181, 181, 181)
 }
 
 hr {
@@ -28,4 +29,5 @@ hr {
     border-left:0cap;
     border-right:0cap;
     border-color: gray;
+    margin: 25px;
 }

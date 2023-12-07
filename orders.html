@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./styles/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="header">
@@ -35,13 +35,59 @@
         </div>
     </div>
 
-    <hr>
+    <div class="orders-page">
+        <div class="orders-page-title">
+            <h2 class="ordersTitle">Place Your Order</h2>
+        </div>
 
-    <p>
+        <div class="products-list">
+            <h3 class="productsListTitle">Products in cart</h3>
+            <p class="productsListText">Your cart is empty</p>
+        </div>
+
+        <hr>
+
+        <div class="orders-form">
+            <form action="#" method="get">
+                <div class="form-parameters">
+                    <label for="name" class="label">Full Name</label>
+                    <input type="text" class="answer" name="name" required>
+                </div>
         
-    </p>
+                <div class="form-parameters">
+                    <label for="email" class="label">Email</label>
+                    <input type="email" class="answer" name="email" required>
+                </div>
+        
+                <div class="form-parameters">
+                    <label for="phone" class="label">Phone Number</label>
+                    <input type="tel" class="answer" name="phone" required>
+                </div>
+        
+                <div class="form-parameters">
+                    <label for="address" class="label">Shipping Address</label>
+                    <textarea class="answer" name="address" required></textarea>
+                </div>
 
-    <hr>
+                <div class="form-parameters">
+                    <label for="address" class="label">Shipping Address</label>
+                    <textarea class="answer" name="address" required></textarea>
+                </div>
+
+                <div class="form-parameters">
+                    <label for="address" class="label">Payment</label>
+
+                    <div class="payment-checkout">
+                        <input type="text" class="answer" placeholder="Card Number" required>
+                        <input type="text" class="answer"  placeholder="Expiration Date - MM/YY" required>
+                        <input type="text" class="answer"  placeholder="CVV" required>
+                    </div>
+                </div>
+
+                <a class="order-button" href="orderConfirm.html">Place Order</a>
+            </form>
+        </div>
+    </div>
 
     <footer class="footer">
         <div class="nav-links">
