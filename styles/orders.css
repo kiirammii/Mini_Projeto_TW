@@ -2,18 +2,6 @@
     margin: 50px 25px
 }
 
-.orders-page-title {
-    margin: 40px 0px;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-}
-
-.ordersTitle {
-    color: var(--main);
-    text-align: center;
-}
-
 .form-parameters {
     margin: 10px 0px
 }
@@ -70,28 +58,44 @@
 }
 
 
-/*---*/
+/* ----- ordersConfirm.html ----- */
 
 .orders-confirm {
-    height: 100%;
+    margin: 100px 0px;
+    height: 259px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.orders-page-title {
+    margin: 40px 0px;    
+}
+
+.ordersPageTitle {
+    color: var(--main);
+    text-align: center;
 }
 
 .shop-more-button {
+    display: flex;
+    justify-content: center;
+}
+
+.shopMoreButton {
     border: none;
     text-decoration: none;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100px;
+    width: 170px;
     background-color: var(--main);
     border-radius: 100px;
     height: 35px;
-    width: 125px;
-    margin-top: 20px;
 }
 
-.shop-more-button:hover {
+.shopMoreButton:hover {
     color:var(--main);
     background-color: var(--sec);
     transition: background-color 0.3s linear;
