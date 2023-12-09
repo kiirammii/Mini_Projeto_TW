@@ -16,6 +16,7 @@
 .most-sold-images {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 30px; 
     align-items: center;
