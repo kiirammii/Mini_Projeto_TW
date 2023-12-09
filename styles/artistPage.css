@@ -1,24 +1,19 @@
 .artists-page {
-    margin:50px 25px
-}
-
-.artists-page-title {
-    margin: 40px 0px 20px;
-}
-
-.artistPagetitle {
-    color: var(--main);
-    text-align: center;
+    margin:50px 25px;
 }
 
 .artist-albums {
-    margin: 30px 0px 60px;
+    margin: 40px 25px 0px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
     gap: 30px; 
     align-items: center;
+}
+
+.albumName {
+    font-weight: bold;
 }
 
 .add-to-cart {
@@ -50,9 +45,16 @@
     transition: background-color 0.3s linear;
 }
 
+.search-more {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
 
 .backToShop {
-    text-decoration: none;
+    text-decoration:none;
     color: white;
     margin-top: 15px;
     margin-bottom: 10px;
@@ -62,7 +64,7 @@
     background-color: var(--main);
     border-radius: 100px;
     height: 30px;
-    width: 60px;
+    width: 80px;
 }
 
 .backToShop:hover {

@@ -34,6 +34,10 @@ hr {
     margin: 25px;
 }
 
+.page-title {
+    margin: 40px 0px;
+}
+
 .pageTitle {
     color: var(--main);
     text-align: center;

@@ -2,15 +2,6 @@
     margin:50px 25px
 }
 
-.artists-gallery-title {
-    margin: 40px 0px 20px;
-}
-
-.artistsGalleryTtitle {
-    color: var(--main);
-    text-align: center;
-}
-
 .artists-images {
     margin: 30px 0px 60px;
     display: flex;
