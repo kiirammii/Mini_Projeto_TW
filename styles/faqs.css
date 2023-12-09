@@ -9,7 +9,7 @@
 .questionTitle {
     display: flex;
     align-items: center;
-    background-color: var(--color-one);
+    background-color: var(--color-two);
     border-radius: 100px;
     height: 30px;
     text-indent: 10px;
