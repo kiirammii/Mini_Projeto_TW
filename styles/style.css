@@ -33,3 +33,8 @@ hr {
     border-color: gray;
     margin: 25px;
 }
+
+.pageTitle {
+    color: var(--main);
+    text-align: center;
+}

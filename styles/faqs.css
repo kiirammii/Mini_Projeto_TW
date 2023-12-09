@@ -6,11 +6,6 @@
     margin: 40px 0px;
 }
 
-.questionsTitle {
-    color: var(--main);
-    text-align: center;
-}
-
 .questionTitle {
     display: flex;
     align-items: center;
