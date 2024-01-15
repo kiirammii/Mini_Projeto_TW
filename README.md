@@ -1,4 +1,4 @@
-![Generic badge](https://img.shields.io/badge/status-completed-827397)
+![Generic badge](https://img.shields.io/badge/status-completed-purple)
 
 
 <hr>
