@@ -1,4 +1,4 @@
-![Generic badge](https://img.shields.io/badge/status-in%20progress-827397)
+![Generic badge](https://img.shields.io/badge/status-completed-827397)
 
 
 <hr>
@@ -8,14 +8,14 @@
 <table align="center">
     <tr>
         <td align="center">
-        <img style="border-radius: 50%; width="100px;"" src="https://avatars.githubusercontent.com/u/99557581?v=4" width="100px;"><br>
+        <img style="border-radius: 50%; width="100px;"" src="" width="100px;"><br>
         <sub>
-        <b>Beatriz Lisboa</br>
+        <b>Catarina Sousa</br>
         </td>
 	<td align="center">
         <img style="border-radius: 50%; width="100px;"" src="https://avatars.githubusercontent.com/u/115319284?s=400" width="100px;"><br>
         <sub>
-        <b>Carolina Costa</br>
+        <b>Carolina Católico</br>
         </td>
         <td align="center">
         <img style="border-radius: 50%; width="100px;"" src="https://avatars.githubusercontent.com/u/115722559?v=4" width="100px;"><br>
