@@ -10,10 +10,10 @@
         <td align="center">
         <img style="border-radius: 50%; width="100px;"" src="" width="100px;"><br>
         <sub>
-        <b>Catarina Sousa</br>
+        <b>Ana Catarina Carvalho</br>
         </td>
 	<td align="center">
-        <img style="border-radius: 50%; width="100px;"" src="https://avatars.githubusercontent.com/u/115319284?s=400" width="100px;"><br>
+        <img style="border-radius: 50%; width="100px;"" src="" width="100px;"><br>
         <sub>
         <b>Carolina Católico</br>
         </td>
@@ -24,7 +24,6 @@
         </td>
     </tr>
 </table>
-<p align="center">With the help of Justinas Simas in the Design department</p>
 
 <hr>
 
@@ -35,6 +34,8 @@ Structuring and developing the Web page:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![BootStrap](https://img.shields.io/badge/BootStrap)
+
 
 Frameworks:
 
