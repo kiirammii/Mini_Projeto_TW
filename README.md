@@ -8,12 +8,12 @@
 <table align="center">
     <tr>
         <td align="center">
-        <img style="border-radius: 50%; width="100px;"" src="" width="100px;"><br>
+        <img style="border-radius: 50%; width="100px;"" src="https://avatars.githubusercontent.com/u/147702947?v=4" width="100px;"><br>
         <sub>
         <b>Ana Catarina Carvalho</br>
         </td>
 	<td align="center">
-        <img style="border-radius: 50%; width="100px;"" src="" width="100px;"><br>
+        <img style="border-radius: 50%; width="100px;"" src="https://avatars.githubusercontent.com/u/147703012?v=4" width="100px;"><br>
         <sub>
         <b>Carolina Católico</br>
         </td>
