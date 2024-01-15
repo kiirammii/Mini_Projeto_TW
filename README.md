@@ -48,8 +48,4 @@ Communication between members of the team:
 
 ## About the project:
 
-This Escape Room is a multidisciplinar project made in the first year second semester of ESMAD's degree TSIW. 
-
-Mnuse is an educational Escape Room that addresses topics such as psychology, trauma and mental health, with the aim of educating players on issues such as dissociative amnesia, bullying and drink-driving. By offering players the opportunity to solve challenges to escape Lily's mind and help her recover memories that were lost due to traumas suffered during her childhood, the game provides an immersive and engaging experience, keeping the player's attention until the end. 
-
-Mnuse's approach to combining therapy and other relevant issues is innovative and intended to be an effective way to educate gamers, especially young people, about important mental health issues. To make these topics more accessible, we bring them into the context of a game, allowing players to learn in a more fun and engaging way.
+- content -
